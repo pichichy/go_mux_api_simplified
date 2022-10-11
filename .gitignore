@@ -1,0 +1,5 @@
+go.mod
+go.sum
+tmp
+.air.toml
+api/__debug_bin.exe
